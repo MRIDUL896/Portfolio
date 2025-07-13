@@ -9,7 +9,7 @@ const projects = [
     techStack: ['ReactJS', 'Chart.js', 'Tailwind CSS', 'Redux Toolkit', 'Express.js', 'Node.js', 'Yahoo Finance API'],
     links: [
       { icon: 'github', url: 'https://github.com/MRIDUL896/BullBear' },
-      { icon: 'live', url: 'https://mridul896.github.io/BullBear/' }
+      { icon: 'live', url: 'https://bullbear-zctw.onrender.com/Home' }
     ]
   },
   {
